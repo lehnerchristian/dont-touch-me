@@ -1,1 +1,1 @@
-First push test
+Here we'll create a very simple shooter game as a project for university for the Computer Graphics lesson.
